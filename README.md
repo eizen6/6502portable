@@ -8,7 +8,7 @@ It closes the loop between my starting point in 1986 and now. Like a Terminator 
 
 It's an Atari 800XL on a USB powerbank, video output captured into a Raspi on a 2nd powerbank.
 
-Optics inspired by Alien movie where computers look like they should. Released in 1979, the year of Atari 800.
+Visuals inspired by Alien movie where computers look like they should. Released in 1979, the year of Atari 800.
 
 I have rarely felt more satisfied.
 
@@ -41,18 +41,19 @@ history. Display on a Raspi. Put everything into a mobile suitcase.
 
 ## Challenges
 
-1. USB power support is fragile when fed from a power bank. Every
+1. Power support via USB is fragile when fed from a power bank. Every
    additional USB hub or cable makes it worse. Especially when driving
    raspi and display from a single powerbank.
+
+1. Cable routing in limited space. Big respect to the first laptop builders.
 
 ## Where's the punk?
 
 If this is cyber then where is the punk, I hear you ask.
 
 My grandfather was a carpenter grandmaster. When he tried to teach me
-when I was 10 he quickly gave up - I was not qualified in his
-eyes. Carving the plate from wood anyway nearly 40 years later instead
-of procrstinating with modern 3d possibilities - that's my punk.
+when I was 10 he quickly gave up - I was not qualified. Carving the
+front plate from wood anyway nearly 40 years later - that's my punk.
 
 ## VLC cmd line
 
@@ -60,12 +61,11 @@ of procrstinating with modern 3d possibilities - that's my punk.
 
 ## Open topics
 
-1. No sound yet.
+1. No sound yet. Does the monitor output it, too?
 
-1. GPIO isn't accessible at the front plate yet.
+1. GPIO not yet accessible at the front plate.
 
-1. The video sometimes glitches. Interferences? Weak power? This looksx
-   great but irritates real work.
+1. The video sometimes glitches. Interferences? Weak power? Looks great but irritates real work.
 
 ## Diary in pictures
 
