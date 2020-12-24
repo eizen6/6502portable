@@ -2,15 +2,15 @@
 
 ## Atari 800XL in a box, portable
 
-![Preview](https://raw.githubusercontent.com/eizen6/6502portable/master/small-20201224_133731x-primary.jpg
+![](small-20201224_133731x-primary.jpg?raw=true)
 
-![Preview](https://raw.githubusercontent.com/eizen6/6502portable/master/small-20201224_132756x-primary.jpg
+![](small-20201224_132756x-primary.jpg?raw=true)
 
-![Preview](https://raw.githubusercontent.com/eizen6/6502portable/master/small-20201224_133119x-primary.jpg
+![](small-20201224_133119x-primary.jpg?raw=true)
 
-![Preview](https://raw.githubusercontent.com/eizen6/6502portable/master/small-20201224_132726x-primary.jpg
+![](small-20201224_132726x-primary.jpg?raw=true)
 
-## Goals
+## Goal
 
 Work on the Atari with the real feeling. But be independent of the
 place in the living room.
