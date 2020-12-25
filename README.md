@@ -333,7 +333,7 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 
 ## License
 
-(c) 2020 ![eiZen](https://mastodon.social/@eiZen)
+(c) 2020 eiZen https://mastodon.social/@eiZen
 
 Instructions, text and images can be used freely.
 
