@@ -69,13 +69,23 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 
 ## Diary in pictures
 
+Power from USB:
+
 ![Power from USB](img/small-20200913_130039.jpg?raw=true)
+
+Monitor to s-video:
 
 ![Monitor to s-video](img/small-20200913_131031.jpg?raw=true)
 
+Video grabber:
+
 ![Video grabber](img/small-20200913_131210.jpg?raw=true)
 
+Raspi 3B+ and 7-inch touchscreen:
+
 ![Raspi 3B+ and 7-inch touchscreen](img/small-20200913_131343.jpg?raw=true)
+
+Atari 800XL:
 
 ![Atari 800XL](img/small-20200913_131920.jpg?raw=true)
 
@@ -87,7 +97,11 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 
 ![](img/small-20200913_132109.jpg?raw=true)
 
+Powerbank:
+
 ![Powerbank](img/small-20200913_132319.jpg?raw=true)
+
+Sio2sd from Lotharek, SD card with disk images:
 
 ![Sio2sd from Lotharek, SD card with disk images](img/small-20200913_132546.jpg?raw=true)
 
@@ -97,29 +111,45 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 
 ![](img/small-20200913_133349.jpg?raw=true)
 
+Raspi 3B durign prototyping, later 3B+:
+
 ![Raspi 3B durign prototyping, later 3B+](img/small-20200913_134218.jpg?raw=true)
 
 ![](img/small-20200913_145723.jpg?raw=true)
 
 ![](img/small-20200913_151214.jpg?raw=true)
 
+syslog video grabber:
+
 ![syslog video grabber](img/small-20200913_161941.jpg?raw=true)
 
+/dev/video:
+
 ![/dev/video](img/small-20200913_162149.jpg?raw=true)
+
+VLC:
 
 ![VLC](img/small-20200913_162327.jpg?raw=true)
 
 ![](img/small-20200913_162400.jpg?raw=true)
 
+Proof of concept:
+
 ![Proof of concept](img/small-20200913_162414.jpg?raw=true)
 
 ![](img/small-20200913_162744.jpg?raw=true)
 
+ATMAS-II booting:
+
 ![ATMAS-II booting](img/small-20200913_182011.jpg?raw=true)
+
+ATMAS-II:
 
 ![ATMAS-II](img/small-20200913_182059.jpg?raw=true)
 
 ![](img/small-20201007_093419.jpg?raw=true)
+
+Suitcase:
 
 ![Suitcase](img/small-20201118_142718.jpg?raw=true)
 
@@ -149,6 +179,8 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 
 ![](img/small-20201121_131843.jpg?raw=true)
 
+Front plate, initial max size:
+
 ![Front plate, initial max size](img/small-20201121_133653.jpg?raw=true)
 
 ![](img/small-20201121_135625.jpg?raw=true)
@@ -163,6 +195,8 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 
 ![](img/small-20201122_220838.jpg?raw=true)
 
+Front plate, shrunk for deeper position:
+
 ![Front plate, shrunk for deeper position](img/small-20201128_164330.jpg?raw=true)
 
 ![](img/small-20201128_172726.jpg?raw=true)
@@ -172,6 +206,8 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 ![](img/small-20201128_183017.jpg?raw=true)
 
 ![](img/small-20201206_114325.jpg?raw=true)
+
+Screews to wood, glue to plastics:
 
 ![Screews to wood, glue to plastics](img/small-20201206_143323.jpg?raw=true)
 
@@ -183,6 +219,8 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 
 ![](img/small-20201213_145247.jpg?raw=true)
 
+Heavy Metal, we are in space after all:
+
 ![Heavy Metal, we are in space after all](img/small-20201213_145321.jpg?raw=true)
 
 ![](img/small-20201213_151841.jpg?raw=true)
@@ -192,6 +230,8 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 ![](img/small-20201213_160533.jpg?raw=true)
 
 ![](img/small-20201213_160621.jpg?raw=true)
+
+Foam nearly ruined from too many experimenting:
 
 ![Foam nearly ruined from too many experimenting](img/small-20201213_162407.jpg?raw=true)
 
@@ -205,11 +245,15 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 
 ![](img/small-20201213_170520.jpg?raw=true)
 
+Protect the innocent:
+
 ![Protect the innocent](img/small-20201213_170927.jpg?raw=true)
 
 ![](img/small-20201213_203421.jpg?raw=true)
 
 ![](img/small-20201213_203759.jpg?raw=true)
+
+Wear a mask:
 
 ![Wear a mask](img/small-20201213_205440.jpg?raw=true)
 
@@ -217,19 +261,32 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 
 ![](img/small-20201221_141609.jpg?raw=true)
 
+Thin foam base:
+
 ![Thin foam base](img/small-20201221_142027.jpg?raw=true)
 
 ![](img/small-20201221_170721.jpg?raw=true)
 
+If in doubt use the big powerbank that normally starts The Last V8:
+
 ![If in doubt use the big powerbank that normally starts The Last V8](img/small-20201222_112538.jpg?raw=true)
+
+Stencils:
 
 ![Stencils](img/small-20201222_114536.jpg?raw=true)
 
 ![](img/small-20201222_115518.jpg?raw=true)
 
+Inner usb hub, soldered switch to be shut off devices:
+
 ![Inner usb hub, soldered switch to be shut off devices](img/small-20201222_132401.jpg?raw=true)
 
+Big switch to disconnect inner usb hub (where video grabber), eg. for
+power saving:
+
 ![Big switch to disconnect inner usb hub (where video grabber), eg. for power saving](img/small-20201222_133757.jpg?raw=true)
+
+GPIO prepared, but not yet outside:
 
 ![GPIO prepared, but not yet outside](img/small-20201222_135153.jpg?raw=true)
 
@@ -247,6 +304,8 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 
 ![](img/small-20201222_180245.jpg?raw=true)
 
+Additional keyboard mountable for longer Raspi work:
+
 ![Additional keyboard mountable for longer Raspi work](img/small-20201222_180430.jpg?raw=true)
 
 ![](img/small-20201222_180841.jpg?raw=true)
@@ -260,6 +319,8 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 ![](img/small-20201222_180945.jpg?raw=true)
 
 ![](img/small-20201222_183402.jpg?raw=true)
+
+Cutting stencils manually:
 
 ![Cutting stencils manually](img/small-20201222_185648.jpg?raw=true)
 
@@ -293,9 +354,13 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 
 ![](img/small-20201224_114013.jpg?raw=true)
 
+Blutooth mini keyboard place:
+
 ![Blutooth mini keyboard place](img/small-20201224_114037.jpg?raw=true)
 
 ![](img/small-20201224_114236.jpg?raw=true)
+
+DATA, POWER, USB OFF:
 
 ![DATA, POWER, USB OFF](img/small-20201224_132726x-primary.jpg?raw=true)
 
@@ -328,6 +393,8 @@ front plate from wood anyway nearly 40 years later - that's my punk.
 ![](img/small-20201224_133842.jpg?raw=true)
 
 ![](img/small-20201224_133905.jpg?raw=true)
+
+Mig Alley Ace:
 
 ![Mig Alley Ace](img/small-20201224_134748.jpg?raw=true)
 
