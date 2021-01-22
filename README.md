@@ -111,9 +111,9 @@ Sio2sd from Lotharek, SD card with disk images:
 
 ![](img/small-20200913_133349.jpg?raw=true)
 
-Raspi 3B durign prototyping, later 3B+:
+Raspi 3B durign prototyping, later 3B+, and back to 3B again because 3B+ takes too much power and struggles at boot:
 
-![Raspi 3B durign prototyping, later 3B+](img/small-20200913_134218.jpg?raw=true)
+![Raspi 3B durign prototyping, later 3B+, and back to 3B even later because 3B+ takes too much power](img/small-20200913_134218.jpg?raw=true)
 
 ![](img/small-20200913_145723.jpg?raw=true)
 
